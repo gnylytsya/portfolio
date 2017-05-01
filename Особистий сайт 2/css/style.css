@@ -1,0 +1,41 @@
+#portfolio {
+    text-align: center;
+    margin-top: 20px;
+}
+.img-responsive{
+    margin-left: 120px;
+}
+#services{
+}
+h1,h2,h3,h4,h5,h6{
+    color: #f33052;
+}
+.logo {
+    padding-top: 10px;
+}
+.portfolio-item {
+}
+.timeline-image{
+    padding-bottom: 50px;
+}
+.timeline-heading-left{
+    text-align: right;
+}
+#mainNav {
+    background-color: transparent;
+}
+.fa {
+    padding: 20px;
+    color: grey;
+    padding: 10px; /* Поля вокруг текста */ 
+    margin-left: 40px;
+}
+.fa:hover {
+    color: #f33052; /* Цвет ссылки */ 
+} 
+#contact{
+    background-color: darkgray;
+}
+.portfolio-item{
+	max-width: 500px;
+}
